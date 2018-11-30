@@ -1,4 +1,4 @@
-## Formulaire React avec étapes
+## Timer React
 
 Pour lancer le projet
 
